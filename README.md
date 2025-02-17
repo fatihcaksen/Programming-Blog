@@ -1,11 +1,5 @@
----
-title: "A Beginner's Guide to HTML, CSS, and Programming Languages"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
----
 
-# Introduction
+# A Beginner's Guide to HTML, CSS, and Programming Languages
 Understanding **HTML, CSS, and programming languages** is essential for anyone interested in web development, software engineering, or mobile app development. This guide compiles useful learning resources and cheat sheets for various languages, including **HTML, CSS, Swift, Android development, Java, C#, Ruby, PHP, and C++**.
 
 ![Programming Languages Sketch](programming_languages_sketch.png)
